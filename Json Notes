@@ -1,0 +1,29 @@
+# Week 8 JSON Notes
+
+## What JSON Means
+JSON stands for JavaScript Object Notation. In this assignment, I am using it as a readable way to save app information in a file.
+
+## What My App Needs To Remember
+- Project name:
+- Team member names:
+- Folder names:
+- File names:
+- Last saved location:
+- Other information:
+
+## Variables Connected To JSON
+- Variable name:
+- Data type:
+- What it stores:
+- Why the app needs it:
+
+## Save Process
+1. The user enters information.
+2. The app stores that information in variables or objects.
+3. The app converts the information into JSON.
+4. The app writes the JSON to a file.
+
+## Questions I Still Have
+-
+-
+-
