@@ -1,0 +1,41 @@
+# Week 8 Application Change Log
+
+## App Name
+
+## Previous Version
+My previous Folder Maker App could:
+-
+-
+-
+
+## New Version
+This version adds:
+- JSON saving:
+- NuGet/package use:
+- File save location:
+- Three TODO items completed:
+
+## TODO Items I Chose
+1. TODO item:
+   - What I changed:
+   - Why it improves the app:
+
+2. TODO item:
+   - What I changed:
+   - Why it improves the app:
+
+3. TODO item:
+   - What I changed:
+   - Why it improves the app:
+
+## Functions And Procedures I Commented
+- Name:
+  - Purpose:
+  - Inputs:
+  - Output or result:
+
+## Testing Notes
+- What worked:
+- What failed:
+- What I fixed:
+- What I would improve in version 2.1:
