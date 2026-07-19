@@ -1,18 +1,17 @@
 # Week 8 Application Change Log
 
 ## App Name
-
+MelodyOrganizer
 ## Previous Version
 My previous Folder Maker App could:
--
--
--
+- A MainPlaylist Folder
+- A Mini Playlist Folder
 
 ## New Version
-This version adds:
+This version adds: a song review folder
 - JSON saving:
 - NuGet/package use:
-- File save location:
+- File save location: desktop
 - Three TODO items completed:
 
 ## TODO Items I Chose
@@ -35,7 +34,9 @@ This version adds:
   - Output or result:
 
 ## Testing Notes
-- What worked:
-- What failed:
-- What I fixed:
-- What I would improve in version 2.1:
+- What worked: two seperate json files that stored the users previous music reviews
+- What failed: When i started the App the file wouldnt show up anywhere
+- What I fixed: i created an if.. then... elself statement that opened up the json file whenever
+a playlist is created whenever the user enters the yes|No command whenever they create a playlist
+with or without miniplaylists.
+- What I would improve in version 2.1: i would like to make the 
