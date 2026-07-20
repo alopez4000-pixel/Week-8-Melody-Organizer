@@ -7,7 +7,7 @@ JSON stands for JavaScript Object Notation. In this assignment, I am using it as
 - Project name: MelodyOrganizer
 - Team member names: Alexa Lopez (Individual Project)
 - Folder names: Previous Playlist
-- File names: Song Recommendations, Favorite Tracks, and Song Reviews
+- File names: RateSong
 - Last saved location: Main Playlist
 - Other information: N/A
 
@@ -26,6 +26,6 @@ ratings/tracks/reviews so tehy can either look back to their favorite songs, ref
 4. The app writes the JSON to a file.
 
 ## Questions I Still Have
--
--
--
+- What other ways can JSON be applied to coding
+- how does the app convert the information into JSON
+- are there otherWays to save information besides JSON
