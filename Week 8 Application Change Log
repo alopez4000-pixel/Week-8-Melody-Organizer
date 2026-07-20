@@ -15,23 +15,29 @@ This version adds: a song review folder
 - Three TODO items completed:
 
 ## TODO Items I Chose
-1. TODO item:
-   - What I changed:
-   - Why it improves the app:
+1. TODO item: Create A Project Class
+   - What I changed: I name the publicClass RateSong added SongName and SongRating as strings.
+   - Why it improves the app: This allowed me to create a base for the song rating feature i wanted to add.
 
-2. TODO item:
-   - What I changed:
-   - Why it improves the app:
+2. TODO item: Serialize Project Class 
+   - What I changed: i added a serializeRateSong() procedure. this converts the data within this sub
+     Into a Json file.
+   - Why it improves the app: this stores and saves the data that the user may want to save
 
-3. TODO item:
-   - What I changed:
-   - Why it improves the app:
+3. TODO item: Create A Json File for the Project Class
+   - What I changed: i sterialized RateSong and catagorized the data that was gonna be inside a Json file 
+    Via the song name and the rating
+   - Why it improves the app: this improves the Application by Creating a Json file that stores song names 
+     its ratings
 
 ## Functions And Procedures I Commented
-  - Name: 
-  - Purpose:
-  - Inputs:
-  - Output or result:
+  - Name: SerializeRateSong 
+  - Purpose: stores and creates a Json file needed to stores and saves the users song names and its ratings
+  - Inputs: 
+  (1)  mySong.SongName="insertSongName"
+  (2)  mySong.SongRating= "tbd/10: *insert comments*"
+  - Output or result: adds the song the user types in the first command and the song rating + additional comments
+    the user may have typed on the 2nd commant on the song.
 
 ## Testing Notes
 
