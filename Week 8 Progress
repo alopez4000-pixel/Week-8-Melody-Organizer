@@ -1,18 +1,18 @@
 Week 8 Progress Post
 
-App name:
+App name: MelodyOrganizer
 
-This week I added or studied JSON persistence. My app needs to remember:
+This week I added or studied JSON persistence. My app needs to remember: the users 
 
 The three TODO items I worked on were:
-1.
-2.
-3.
+1. Create A Project Class
+2. Serialize Project Class
+3. Create a json File for the Project Class
 
 One function or procedure I understand better now is:
-
+SaveProjectJSON, from what i understand about it is that this saves Data into a JSON file
 One issue I ran into was:
-
+that i did stuggle to make the Json file show up on the desktop but after adding a if then procedure i was able to fix that issue
 For a future version 2.1 of my app, I would improve:
 
 My project link is:
