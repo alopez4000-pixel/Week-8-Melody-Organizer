@@ -9,7 +9,7 @@ My previous Folder Maker App could:
 
 ## New Version
 This version adds: a song review folder
-- JSON saving:
+- JSON saving: song name and song rating data
 - NuGet/package use:
 - File save location: desktop
 - Three TODO items completed:
@@ -28,15 +28,20 @@ This version adds: a song review folder
    - Why it improves the app:
 
 ## Functions And Procedures I Commented
-- Name:
+  - Name: 
   - Purpose:
   - Inputs:
   - Output or result:
 
 ## Testing Notes
+
 - What worked: two seperate json files that stored the users previous music reviews
-- What failed: When i started the App the file wouldnt show up anywhere
+
+- What failed: When i started the App the file wouldnt show up on the desktop or anywhere
+
 - What I fixed: i created an if.. then... elself statement that opened up the json file whenever
 a playlist is created whenever the user enters the yes|No command whenever they create a playlist
 with or without miniplaylists.
-- What I would improve in version 2.1: i would like to make the 
+
+- What I would improve in version 2.1: i would like to research Json files more so i can improve where
+the json file location ends up being in the main folder instead of the persons desktop.
