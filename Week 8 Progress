@@ -14,8 +14,10 @@ SaveProjectJSON, from what i understand about it is that this saves Data into a 
 One issue I ran into was:
 that i did stuggle to make the Json file show up on the desktop but after adding a if then procedure i was able to fix that issue
 For a future version 2.1 of my app, I would improve:
-
-My project link is:
+i would like to research Json files more so i can improve where the json file location ends up being in the main folder instead of the persons desktop.
+My project link is: https://github.com/alopez4000-pixel/Week-8-Melody-Organizer
 
 Screenshot proof:
+
+
 Attach or include the screenshot required by the assignment.
